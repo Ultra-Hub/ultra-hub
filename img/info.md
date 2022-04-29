@@ -4,7 +4,7 @@ It got nuked by Ligma again (no this is not a "ligma" joke).
 <div>&nbsp;</div>
 
 ### What happened to the GitHub?
-Ligma had owner permissions so he deleted it (not a "ligma" joke, again).
+Ligma had owner permissions so he deleted it because he got mad that no one was giving him nitro (not a "ligma" joke, again).
 
 <div>&nbsp;</div>
 
