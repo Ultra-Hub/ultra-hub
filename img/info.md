@@ -13,7 +13,7 @@ GitHub falsely flagged my account.
 
 <div>&nbsp;</div>
 
-### Did Ultra Hub die?
+### Will Ultra Hub ever die?
 Never!
 
 <div>&nbsp;</div>
