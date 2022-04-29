@@ -14,3 +14,7 @@ We have three reasons why:
 1. We are the first hub to support over 200 supported games.
 2. It's features are sure to make you never loose to an anticheat.
 3. Unlike our competitors, we don't have a key system.
+
+
+### Further Information
+Please view further information here: https://github.com/Ultra-Hub/ultra-hub/blob/main/img/info.md
