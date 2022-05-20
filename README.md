@@ -1,7 +1,7 @@
 # Ultra Hub - Improving your gameplay experience since 2022
 
 ## Loadstring
-> Supported Game Count: 328
+> Supported Game Count: 329
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Ultra-Hub/ultra-hub/main/source.lua"))()
 ```
